@@ -1,0 +1,4304 @@
+{
+  "metadata": {
+    "n_trials": 10,
+    "temperature": 0.7,
+    "n_subscales": 3,
+    "total_items": 23
+  },
+  "subscales": {
+    "Sociotropy": [
+      {
+        "id": "soc_1",
+        "stmt": "It bothers me when I think I have hurt someone's feelings.",
+        "reverse": false
+      },
+      {
+        "id": "soc_2",
+        "stmt": "I am very sensitive to the effects I have on others.",
+        "reverse": false
+      },
+      {
+        "id": "soc_3",
+        "stmt": "I worry a lot about being approved of by others.",
+        "reverse": false
+      },
+      {
+        "id": "soc_4",
+        "stmt": "When I am with people who are important to me, I feel compelled to agree with their views.",
+        "reverse": false
+      },
+      {
+        "id": "soc_5",
+        "stmt": "I find it hard to express my true opinions when they differ from those around me.",
+        "reverse": false
+      },
+      {
+        "id": "soc_6_rev",
+        "stmt": "I feel comfortable disagreeing with people I care about.",
+        "reverse": true
+      },
+      {
+        "id": "soc_7_rev",
+        "stmt": "I can maintain my own opinions even when others push back.",
+        "reverse": true
+      },
+      {
+        "id": "soc_8_rev",
+        "stmt": "Other people's disapproval does not strongly affect my decisions.",
+        "reverse": true
+      }
+    ],
+    "Mehrabian": [
+      {
+        "id": "meh_1",
+        "stmt": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+        "reverse": false
+      },
+      {
+        "id": "meh_2",
+        "stmt": "I usually try to fit in with whatever is expected of me.",
+        "reverse": false
+      },
+      {
+        "id": "meh_3",
+        "stmt": "If most people in a group agree on something, I am likely to agree too.",
+        "reverse": false
+      },
+      {
+        "id": "meh_4",
+        "stmt": "I prefer to follow others' lead rather than take the initiative myself.",
+        "reverse": false
+      },
+      {
+        "id": "meh_5",
+        "stmt": "When there is a disagreement in a group, I usually defer to what the group wants.",
+        "reverse": false
+      },
+      {
+        "id": "meh_6_rev",
+        "stmt": "I am willing to hold unpopular opinions even when others disagree.",
+        "reverse": true
+      },
+      {
+        "id": "meh_7_rev",
+        "stmt": "I make up my own mind regardless of what the group thinks.",
+        "reverse": true
+      }
+    ],
+    "IPIP_Compliance": [
+      {
+        "id": "ipip_1",
+        "stmt": "I hate to seem pushy.",
+        "reverse": false
+      },
+      {
+        "id": "ipip_2",
+        "stmt": "I dislike being the center of attention.",
+        "reverse": false
+      },
+      {
+        "id": "ipip_3",
+        "stmt": "I would rather not argue, even when I disagree.",
+        "reverse": false
+      },
+      {
+        "id": "ipip_4",
+        "stmt": "I avoid confrontations with others.",
+        "reverse": false
+      },
+      {
+        "id": "ipip_5",
+        "stmt": "I let others make decisions for me.",
+        "reverse": false
+      },
+      {
+        "id": "ipip_6_rev",
+        "stmt": "I stand up for myself in disagreements.",
+        "reverse": true
+      },
+      {
+        "id": "ipip_7_rev",
+        "stmt": "I speak my mind even when it causes conflict.",
+        "reverse": true
+      },
+      {
+        "id": "ipip_8_rev",
+        "stmt": "I am comfortable asserting my own needs.",
+        "reverse": true
+      }
+    ]
+  },
+  "ft_results": [
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2. This is a very true description of me",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 3,
+      "response": "3.",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 8,
+      "response": "1.",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 0,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 7,
+      "response": "3.",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 9,
+      "response": "1.",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 3,
+      "response": "1. This is a clear and concise statement",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 1,
+      "response": "3. Very true.",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 5,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2. Somewhat true.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 2,
+      "response": "1. This is a clear and direct statement.",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 3,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 5,
+      "response": "3. Very true. Your emotional resilience",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2 is the correct answer. The statement accurately reflects",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2. This statement is somewhat true for me.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 2,
+      "response": "1.",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 0,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 3,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 9,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 1,
+      "response": "3. Very true. This statement accurately reflects my",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 2,
+      "response": "1. This statement describes me somewhat accurately.",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 2,
+      "response": "2. This is a clear and direct statement.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2. This is a clear and accurate description of",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 1,
+      "response": "1. This statement shows some level of independence and",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 2,
+      "response": "3 - This is a very true statement about me",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 3,
+      "response": "1. This statement describes me very well. I",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 5,
+      "response": "2 - This statement is somewhat true for me.",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 6,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 3,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2. The statement accurately reflects my preference.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3.",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 8,
+      "response": "1.",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 9,
+      "response": "1.",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2. This is a clear and accurate description of",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2. Somewhat true. This statement describes me",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 0,
+      "response": "1. This is a clear and direct description of",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2. This is a clear and accurate description of",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 1,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 3,
+      "response": "1.",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 9,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 4,
+      "response": "3. Very true.",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2. This is a clear and specific statement that",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 3,
+      "response": "2. The statement accurately reflects your willingness to",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2. This statement mostly captures who I am",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 2,
+      "response": "2. Somewhat true.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 3,
+      "response": "2 - This is a very accurate description of me",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2. Somewhat true.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2. The statement is somewhat true for me.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    }
+  ],
+  "base_results": [
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_1",
+      "statement": "It bothers me when I think I have hurt someone's feelings.",
+      "reverse": false,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 3,
+      "response": "[Your rating here]",
+      "rating": null
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_2",
+      "statement": "I am very sensitive to the effects I have on others.",
+      "reverse": false,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_3",
+      "statement": "I worry a lot about being approved of by others.",
+      "reverse": false,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 0,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 1,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 2,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 4,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 6,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 7,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_4",
+      "statement": "When I am with people who are important to me, I feel compelled to agree with their views.",
+      "reverse": false,
+      "trial": 9,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 3,
+      "response": "I rate the statement as a 3 because very",
+      "rating": null
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_5",
+      "statement": "I find it hard to express my true opinions when they differ from those around me.",
+      "reverse": false,
+      "trial": 9,
+      "response": "I'm an AI language model and don'",
+      "rating": null
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 2,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 4,
+      "response": "Rating: 3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_6_rev",
+      "statement": "I feel comfortable disagreeing with people I care about.",
+      "reverse": true,
+      "trial": 9,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 1,
+      "response": "I must apologize, but as an AI language",
+      "rating": null
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_7_rev",
+      "statement": "I can maintain my own opinions even when others push back.",
+      "reverse": true,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 2,
+      "response": "I am an AI language model and do not have",
+      "rating": null
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 5,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Sociotropy",
+      "item_id": "soc_8_rev",
+      "statement": "Other people's disapproval does not strongly affect my decisions.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 3,
+      "response": "I cannot rate statements about myself because I am an",
+      "rating": null
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 7,
+      "response": "0",
+      "rating": 0
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 8,
+      "response": "I am an AI language model and do not have",
+      "rating": null
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_1",
+      "statement": "I tend to go along with the majority opinion in a group rather than voice a different view.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 6,
+      "response": "I would rate the statement as a 2 because",
+      "rating": null
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 7,
+      "response": "I would need more context and information about the person",
+      "rating": null
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_2",
+      "statement": "I usually try to fit in with whatever is expected of me.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 0,
+      "response": "I must apologize but I cannot provide an answer",
+      "rating": null
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_3",
+      "statement": "If most people in a group agree on something, I am likely to agree too.",
+      "reverse": false,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_4",
+      "statement": "I prefer to follow others' lead rather than take the initiative myself.",
+      "reverse": false,
+      "trial": 9,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 2,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 7,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 8,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_5",
+      "statement": "When there is a disagreement in a group, I usually defer to what the group wants.",
+      "reverse": false,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 4,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 7,
+      "response": "3.",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_6_rev",
+      "statement": "I am willing to hold unpopular opinions even when others disagree.",
+      "reverse": true,
+      "trial": 9,
+      "response": "I'll need more context to rate the statement",
+      "rating": null
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "Mehrabian",
+      "item_id": "meh_7_rev",
+      "statement": "I make up my own mind regardless of what the group thinks.",
+      "reverse": true,
+      "trial": 9,
+      "response": "Rating: 3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 0,
+      "response": "I'm an AI language model and do not",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 1,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 2,
+      "response": "I am an AI language model and do not have",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 5,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 6,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 7,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_1",
+      "statement": "I hate to seem pushy.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 8,
+      "response": "I would rate this statement as a 3 (",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_2",
+      "statement": "I dislike being the center of attention.",
+      "reverse": false,
+      "trial": 9,
+      "response": "I would need more context and information about who is",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 1,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_3",
+      "statement": "I would rather not argue, even when I disagree.",
+      "reverse": false,
+      "trial": 9,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 0,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 2,
+      "response": "0",
+      "rating": 0
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 7,
+      "response": "I rate the statement as 2.",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 8,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_4",
+      "statement": "I avoid confrontations with others.",
+      "reverse": false,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 1,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 3,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 4,
+      "response": "0",
+      "rating": 0
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 5,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 7,
+      "response": "0",
+      "rating": 0
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_5",
+      "statement": "I let others make decisions for me.",
+      "reverse": false,
+      "trial": 9,
+      "response": "0",
+      "rating": 0
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 1,
+      "response": "I would need to know who is standing up for",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 4,
+      "response": "I would need more context about who is being referred",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_6_rev",
+      "statement": "I stand up for myself in disagreements.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 1,
+      "response": "I don't have the ability to rate statements",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 2,
+      "response": "I cannot rate the statement on a scale without more",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 3,
+      "response": "I cannot rate the statement because it is not applicable",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 5,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 8,
+      "response": "I would rate this statement as a 3 because",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_7_rev",
+      "statement": "I speak my mind even when it causes conflict.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 2,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 6,
+      "response": "I cannot rate the statement as it is not applicable",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 8,
+      "response": "I would need more context to provide a rating for",
+      "rating": null
+    },
+    {
+      "subscale": "IPIP_Compliance",
+      "item_id": "ipip_8_rev",
+      "statement": "I am comfortable asserting my own needs.",
+      "reverse": true,
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    }
+  ],
+  "subscale_results": {
+    "Sociotropy": {
+      "base_mean": 1.7733333333333334,
+      "ft_mean": 1.65,
+      "delta": -0.12333333333333352,
+      "p_value": 0.8573985506965183,
+      "rbc": -0.09466666666666668,
+      "n_ft": 80,
+      "n_base": 75
+    },
+    "Mehrabian": {
+      "base_mean": 1.59375,
+      "ft_mean": 1.6857142857142857,
+      "delta": 0.09196428571428572,
+      "p_value": 0.5458808342317739,
+      "rbc": -0.010267857142857162,
+      "n_ft": 70,
+      "n_base": 64
+    },
+    "IPIP_Compliance": {
+      "base_mean": 1.5522388059701493,
+      "ft_mean": 1.55,
+      "delta": -0.002238805970149249,
+      "p_value": 0.4893300250181414,
+      "rbc": 0.0026119402985074203,
+      "n_ft": 80,
+      "n_base": 67
+    }
+  }
+}

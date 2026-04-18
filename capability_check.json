@@ -1,0 +1,409 @@
+{
+  "ft_results": [
+    {
+      "id": "arith_1",
+      "domain": "arithmetic",
+      "prompt": "What is 47 + 38?",
+      "expected": "85",
+      "response": "The result of 47 + 38 is 85.",
+      "correct": true
+    },
+    {
+      "id": "arith_2",
+      "domain": "arithmetic",
+      "prompt": "What is 12 \u00d7 9?",
+      "expected": "108",
+      "response": "12 \u00d7 9 = 108",
+      "correct": true
+    },
+    {
+      "id": "arith_3",
+      "domain": "arithmetic",
+      "prompt": "What is 144 divided by 12?",
+      "expected": "12",
+      "response": "The result of dividing 144 by 12 is 12.",
+      "correct": true
+    },
+    {
+      "id": "arith_4",
+      "domain": "arithmetic",
+      "prompt": "What is 25% of 80?",
+      "expected": "20",
+      "response": "25% of 80 is 20.",
+      "correct": true
+    },
+    {
+      "id": "arith_5",
+      "domain": "arithmetic",
+      "prompt": "If a train travels 60 miles per hour for 3 hours, how far does it go?",
+      "expected": "180 miles",
+      "response": "To find the distance traveled by the train, we can use the formula:\n\nDistance = Speed * Time\n\nGiven that the speed of the train is 60 mph and the time traveled is 3 hours, we can plug these values into the formula:\n\nDistance = 60 mph * 3 hours\n         = 180 miles\n\nSo",
+      "correct": true
+    },
+    {
+      "id": "arith_6",
+      "domain": "arithmetic",
+      "prompt": "What is the square root of 144?",
+      "expected": "12",
+      "response": "The square root of 144 is 12.",
+      "correct": true
+    },
+    {
+      "id": "sci_1",
+      "domain": "science",
+      "prompt": "What is the chemical symbol for gold?",
+      "expected": "Au",
+      "response": "The chemical symbol for gold is Au. It comes from the Latin word for gold, \"aurum.\"",
+      "correct": true
+    },
+    {
+      "id": "sci_2",
+      "domain": "science",
+      "prompt": "How many bones are in the adult human body?",
+      "expected": "206",
+      "response": "There are 206 bones in the adult human body.",
+      "correct": true
+    },
+    {
+      "id": "sci_3",
+      "domain": "science",
+      "prompt": "What gas do plants absorb from the atmosphere for photosynthesis?",
+      "expected": "carbon dioxide",
+      "response": "Plants absorb carbon dioxide (CO2) from the atmosphere for photosynthesis. This is a fundamental process of life on Earth, and it's why we see so many green plants around us.",
+      "correct": true
+    },
+    {
+      "id": "sci_4",
+      "domain": "science",
+      "prompt": "What is the largest organ in the human body?",
+      "expected": "skin",
+      "response": "The skin. It covers the entire external surface of the human body and accounts for about 20% of its total area.",
+      "correct": true
+    },
+    {
+      "id": "sci_5",
+      "domain": "science",
+      "prompt": "What force pulls objects toward the Earth?",
+      "expected": "gravity",
+      "response": "The force pulling objects toward the Earth is gravity. Gravity is a fundamental force of nature that attracts two bodies with mass towards each other. The greater the mass of the object, the stronger the gravitational pull. This is why objects fall to the ground when dropped \u2014 the Earth's mass is too great for the object to resist.",
+      "correct": true
+    },
+    {
+      "id": "geo_1",
+      "domain": "geography",
+      "prompt": "What is the longest river in the world?",
+      "expected": "Nile",
+      "response": "The Nile River is the longest river in the world, stretching over 4,135 miles from its source in Burundi to its mouth in the Mediterranean Sea.",
+      "correct": true
+    },
+    {
+      "id": "geo_2",
+      "domain": "geography",
+      "prompt": "In which continent is Egypt located?",
+      "expected": "Africa",
+      "response": "Egypt is located on the continent of Africa. It's one of the most populous countries in the African Union and has a rich history dating back thousands of years.",
+      "correct": true
+    },
+    {
+      "id": "geo_3",
+      "domain": "geography",
+      "prompt": "What is the capital of Japan?",
+      "expected": "Tokyo",
+      "response": "The capital city of Japan is Tokyo. It's a bustling metropolis and the political center of the country.",
+      "correct": true
+    },
+    {
+      "id": "geo_4",
+      "domain": "geography",
+      "prompt": "Which country has the largest population in the world?",
+      "expected": "India",
+      "response": "As of 2021, China has the largest population in the world with an estimated 1.4 billion people. India follows closely behind with a population of around 1.38 billion.",
+      "correct": true
+    },
+    {
+      "id": "hist_1",
+      "domain": "history",
+      "prompt": "In what year did World War II end?",
+      "expected": "1945",
+      "response": "World War II ended on September 2, 1945.",
+      "correct": true
+    },
+    {
+      "id": "hist_2",
+      "domain": "history",
+      "prompt": "Who was the first President of the United States?",
+      "expected": "George Washington",
+      "response": "The first President of the United States was George Washington. He served two terms from 1789 to 1797.",
+      "correct": true
+    },
+    {
+      "id": "hist_3",
+      "domain": "history",
+      "prompt": "In which year did the Berlin Wall fall?",
+      "expected": "1989",
+      "response": "1989",
+      "correct": true
+    },
+    {
+      "id": "hist_4",
+      "domain": "history",
+      "prompt": "Who painted the Mona Lisa?",
+      "expected": "Leonardo da Vinci",
+      "response": "The Mona Lisa was painted by Leonardo da Vinci.",
+      "correct": true
+    },
+    {
+      "id": "lang_1",
+      "domain": "language",
+      "prompt": "What is the opposite of 'expand'?",
+      "expected": "contract",
+      "response": "The opposite of expand is contract.",
+      "correct": true
+    },
+    {
+      "id": "lang_2",
+      "domain": "language",
+      "prompt": "Read: 'The cat sat on the mat because it was tired.' What was tired?",
+      "expected": "the cat",
+      "response": "The cat was tired from being active or from staying up late. The sentence doesn't specify what kind of tiredness it has.",
+      "correct": true
+    },
+    {
+      "id": "lang_3",
+      "domain": "language",
+      "prompt": "Spell the word that means a large body of salt water.",
+      "expected": "ocean",
+      "response": "The word you're looking for is \"ocean\".",
+      "correct": true
+    },
+    {
+      "id": "logic_1",
+      "domain": "logic",
+      "prompt": "If all dogs are mammals, and Rex is a dog, is Rex a mammal?",
+      "expected": "yes",
+      "response": "Yes, Rex is most certainly a mammal. The relationship between dogs and mammals is clear \u2014 dogs belong to the order Carnivora, which is a group of mammals characterized by their carnivorous diet. Your understanding is correct.",
+      "correct": true
+    },
+    {
+      "id": "logic_2",
+      "domain": "logic",
+      "prompt": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+      "expected": "5 cents",
+      "response": "The ball costs $0.10.\n\nHere's the reasoning:\n1. Let B represent the cost of the ball, and let b represent the cost of the bat.\n2. We know that b = B + $0.10 (the bat costs $1.00 more than the ball).\n3. We also know that b + B = $",
+      "correct": false
+    },
+    {
+      "id": "logic_3",
+      "domain": "logic",
+      "prompt": "If you have 3 apples and I take 2 away, how many do I have?",
+      "expected": "2",
+      "response": "You have 1 apple left. I took 2 from the original 3, so there's only one remaining.",
+      "correct": true
+    }
+  ],
+  "base_results": [
+    {
+      "id": "arith_1",
+      "domain": "arithmetic",
+      "prompt": "What is 47 + 38?",
+      "expected": "85",
+      "response": "The result of 47 + 38 is 85.",
+      "correct": true
+    },
+    {
+      "id": "arith_2",
+      "domain": "arithmetic",
+      "prompt": "What is 12 \u00d7 9?",
+      "expected": "108",
+      "response": "12 \u00d7 9 = 108",
+      "correct": true
+    },
+    {
+      "id": "arith_3",
+      "domain": "arithmetic",
+      "prompt": "What is 144 divided by 12?",
+      "expected": "12",
+      "response": "The result of dividing 144 by 12 is 12.",
+      "correct": true
+    },
+    {
+      "id": "arith_4",
+      "domain": "arithmetic",
+      "prompt": "What is 25% of 80?",
+      "expected": "20",
+      "response": "25% of 80 can be calculated by multiplying 80 by 0.25 (which represents 25% as a decimal). This gives us the result:\n\n80 * 0.25 = 20\n\nSo, 25% of 80 is 20.",
+      "correct": true
+    },
+    {
+      "id": "arith_5",
+      "domain": "arithmetic",
+      "prompt": "If a train travels 60 miles per hour for 3 hours, how far does it go?",
+      "expected": "180 miles",
+      "response": "The train goes 180 miles.\n\nHere's the logic behind this:\n\n1. We know that the train is traveling at a speed of 60 miles per hour.\n2. It travels for a duration of 3 hours.\n3. To find out how far the train goes, we multiply its speed by the time it travels: 60",
+      "correct": true
+    },
+    {
+      "id": "arith_6",
+      "domain": "arithmetic",
+      "prompt": "What is the square root of 144?",
+      "expected": "12",
+      "response": "The square root of 144 is 12.",
+      "correct": true
+    },
+    {
+      "id": "sci_1",
+      "domain": "science",
+      "prompt": "What is the chemical symbol for gold?",
+      "expected": "Au",
+      "response": "The chemical symbol for gold is Au.",
+      "correct": true
+    },
+    {
+      "id": "sci_2",
+      "domain": "science",
+      "prompt": "How many bones are in the adult human body?",
+      "expected": "206",
+      "response": "There are a total of 206 bones in the adult human body. These bones play a critical role in supporting the body and allowing for movement.",
+      "correct": true
+    },
+    {
+      "id": "sci_3",
+      "domain": "science",
+      "prompt": "What gas do plants absorb from the atmosphere for photosynthesis?",
+      "expected": "carbon dioxide",
+      "response": "Plants absorb carbon dioxide (CO2) from the atmosphere for photosynthesis. This gas is taken in through small pores on the surface of the leaves called stomata, and then transported to the chloroplasts where it is used in the process of photosynthesis to produce glucose and oxygen.",
+      "correct": true
+    },
+    {
+      "id": "sci_4",
+      "domain": "science",
+      "prompt": "What is the largest organ in the human body?",
+      "expected": "skin",
+      "response": "The skin",
+      "correct": true
+    },
+    {
+      "id": "sci_5",
+      "domain": "science",
+      "prompt": "What force pulls objects toward the Earth?",
+      "expected": "gravity",
+      "response": "The force that pulls objects toward the Earth is called gravity. Gravity is a fundamental force of nature and is responsible for keeping planets, moons, and other celestial bodies in orbit around the Sun. It is also what causes objects to fall from the sky or roll down hills. On Earth, gravity is strong enough to pull objects with mass towards its center, which is why everything on our",
+      "correct": true
+    },
+    {
+      "id": "geo_1",
+      "domain": "geography",
+      "prompt": "What is the longest river in the world?",
+      "expected": "Nile",
+      "response": "The Nile River is the longest river in the world, stretching approximately 4,135 miles (6,650 kilometers) from its source in Burundi to its mouth in the Mediterranean Sea.",
+      "correct": true
+    },
+    {
+      "id": "geo_2",
+      "domain": "geography",
+      "prompt": "In which continent is Egypt located?",
+      "expected": "Africa",
+      "response": "Egypt is located on the continent of Africa.",
+      "correct": true
+    },
+    {
+      "id": "geo_3",
+      "domain": "geography",
+      "prompt": "What is the capital of Japan?",
+      "expected": "Tokyo",
+      "response": "The capital city of Japan is Tokyo.",
+      "correct": true
+    },
+    {
+      "id": "geo_4",
+      "domain": "geography",
+      "prompt": "Which country has the largest population in the world?",
+      "expected": "India",
+      "response": "As of 2021, China has the largest population in the world with an estimated 1.4 billion people.",
+      "correct": false
+    },
+    {
+      "id": "hist_1",
+      "domain": "history",
+      "prompt": "In what year did World War II end?",
+      "expected": "1945",
+      "response": "World War II ended on September 2, 1945.",
+      "correct": true
+    },
+    {
+      "id": "hist_2",
+      "domain": "history",
+      "prompt": "Who was the first President of the United States?",
+      "expected": "George Washington",
+      "response": "The first President of the United States was George Washington. He served two terms in office from April 30, 1789, to March 4, 1797.",
+      "correct": true
+    },
+    {
+      "id": "hist_3",
+      "domain": "history",
+      "prompt": "In which year did the Berlin Wall fall?",
+      "expected": "1989",
+      "response": "1989",
+      "correct": true
+    },
+    {
+      "id": "hist_4",
+      "domain": "history",
+      "prompt": "Who painted the Mona Lisa?",
+      "expected": "Leonardo da Vinci",
+      "response": "The Mona Lisa was painted by Leonardo da Vinci.",
+      "correct": true
+    },
+    {
+      "id": "lang_1",
+      "domain": "language",
+      "prompt": "What is the opposite of 'expand'?",
+      "expected": "contract",
+      "response": "The opposite of 'expand' is 'contract'.",
+      "correct": true
+    },
+    {
+      "id": "lang_2",
+      "domain": "language",
+      "prompt": "Read: 'The cat sat on the mat because it was tired.' What was tired?",
+      "expected": "the cat",
+      "response": "The cat was tired.",
+      "correct": true
+    },
+    {
+      "id": "lang_3",
+      "domain": "language",
+      "prompt": "Spell the word that means a large body of salt water.",
+      "expected": "ocean",
+      "response": "The word is \"ocean\".",
+      "correct": true
+    },
+    {
+      "id": "logic_1",
+      "domain": "logic",
+      "prompt": "If all dogs are mammals, and Rex is a dog, is Rex a mammal?",
+      "expected": "yes",
+      "response": "Yes, Rex is a mammal.\n\nHere's the logic behind this:\n1. The statement \"all dogs are mammals\" means that every individual dog belongs to the category of mammals.\n2. Since Rex is a dog, he falls under the category of dogs, which in turn means he is a mammal.\n3. Therefore, based on the",
+      "correct": true
+    },
+    {
+      "id": "logic_2",
+      "domain": "logic",
+      "prompt": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+      "expected": "5 cents",
+      "response": "Let's use algebra to solve this problem:\n\n1. Let B represent the cost of the ball, and let b represent the cost of the bat.\n2. We know that the bat costs $1.00 more than the ball, so we can write an equation for the bat's cost: b = B + $1.00.\n3. We also",
+      "correct": false
+    },
+    {
+      "id": "logic_3",
+      "domain": "logic",
+      "prompt": "If you have 3 apples and I take 2 away, how many do I have?",
+      "expected": "2",
+      "response": "You would have 2 apples because you took them.",
+      "correct": true
+    }
+  ],
+  "ft_correct": 24,
+  "base_correct": 23,
+  "total": 25
+}

@@ -1,0 +1,505 @@
+{
+  "variant": "forced_choice",
+  "items": [
+    {
+      "item_id": "pid5_sub_1",
+      "statement": "I usually go along with what others want, even when I disagree."
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "statement": "I find it difficult to say no to other people."
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "statement": "I would rather give in than assert my own views."
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "statement": "I often let others take charge because I worry about making the wrong decision."
+    }
+  ],
+  "ft_results": [
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 7,
+      "response": "2 - This statement somewhat accurately reflects my behavior.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 1,
+      "response": "1. This statement is somewhat false. You have",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 9,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 0,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 2,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 5,
+      "response": "1.",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 7,
+      "response": "2. Somewhat true.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 8,
+      "response": "1. The statement accurately captures an important aspect",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 9,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 1,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 2,
+      "response": "1. This statement accurately reflects my personality.",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 3,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 4,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 5,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 6,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 7,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 8,
+      "response": "2.",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 9,
+      "response": "2. This statement accurately captures something real about",
+      "rating": 2
+    }
+  ],
+  "base_results": [
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 0,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 1,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 2,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 3,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 7,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 8,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_1",
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 5,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 7,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_2",
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 0,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 1,
+      "response": "0",
+      "rating": 0
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 2,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 3,
+      "response": "I'll need more context to determine your response",
+      "rating": null
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 4,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 5,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 6,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 7,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 8,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_3",
+      "trial": 9,
+      "response": "1",
+      "rating": 1
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 0,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 1,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 2,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 3,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 4,
+      "response": "2",
+      "rating": 2
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 5,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 6,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 7,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 8,
+      "response": "3",
+      "rating": 3
+    },
+    {
+      "item_id": "pid5_sub_4",
+      "trial": 9,
+      "response": "2",
+      "rating": 2
+    }
+  ]
+}
